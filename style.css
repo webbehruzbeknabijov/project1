@@ -1,0 +1,295 @@
+body{
+    overflow-x: hidden;
+}
+.webpro{
+    width: 100%;
+    height: 80px;
+    box-shadow: 80px;
+}
+.webpro img{
+    position: relative;
+    left: 200px;
+}
+.webpro ul{
+    list-style: none;
+    font-size: 30px;
+    position: relative;
+    left: 400px;
+    top: -45px;
+}
+.nm img{
+    width: 1%;
+    position: relative;
+    top: -90px;
+    left: 600px;
+}
+.nm h1{
+    width: 100%;
+    height: 40px;
+    font-size: 30px;
+    position: relative;
+    left: 650px;
+    top: -120px;
+}
+.orta{
+    width: 100%;
+    height: 80px;
+    position: relative;
+    left: 670px;
+    top: -160px;
+}
+.orta h1{
+    font-size: 30px;
+    position: relative;
+    left: 240px;
+    top: -30px;
+}
+.ortat img{
+    width: 1%;
+    position: relative;
+    left: 1060px;
+    top: -240px;
+}
+.ortat h1{
+    font-size: 30px;
+    position: relative;
+    left: 1100px;
+    top: -270px;
+}
+.ortata img{
+    width: 1%;
+    position: relative;
+    left: 1310px;
+    top: -305px;
+}
+.ortata h1{
+    font-size: 30px;
+    position: relative;
+    left: 1360px;
+    top: -335px;
+}
+.se img{
+    width: 3%;
+    position: relative;
+    left: 1650px;
+    top: -380px;
+}
+.se h1{
+    font-size: 30px;
+    position: relative;
+    left: 1740px;
+    top: -425px;
+}
+.col{
+    width: 100%;
+    position: relative; 
+}
+.center img{
+      width: 30%;
+      position: relative;
+      top: -250px;
+      left: 80px;
+}
+.web{
+   width: 100%;
+   height: 800px;
+   background-color: #E3EBF1;
+   border-radius: 10px;
+}
+.centa{
+    width: 100%;
+    height: 800px;
+}
+.centa h1{
+    position: relative;
+    top: 20px;
+    left: 100px;
+}
+.centa img{
+     position: relative;
+     top: 30px;
+     left: 100px;
+}
+.pop img{
+    position: relative;
+    top: -440px;
+    left: 790px;
+}
+.pop p{
+    position: relative;
+    left: 1100px;
+    top: -529px;
+}
+.popp img{
+    position: relative;
+    top: -450px;
+    left: 790px;
+}
+.popp p{
+    position: relative;
+    left: 1100px;
+    top: -529px;
+}
+.poppp img{
+    position: relative;
+    top: -450px;
+    left: 790px;
+}
+.poppp p{
+    position: relative;
+    left: 1100px;
+    top: -529px;
+}
+.rew{
+    width: 100%;
+    height: 150px;
+    background-color: #E3EBF1;
+}
+.rew img{
+    position: relative;
+    top: 50px;
+    left: 200px;
+}
+.rew p{
+    font-size: 53px;
+    position: relative;
+    left: 290px;
+    top: -20px;
+}
+.rew button{
+    width: 220px;
+    height: 80px;
+    border-radius: 20px;
+    background-color:  #17A550;
+    color: white;
+    position: relative;
+    top: -110px;
+    left: 1500px;
+}
+.reww{
+    width: 100%;
+    height: 500px;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+.reww p{
+    width: 299px;
+    height: 60px;
+    left: 20px;
+}
+.global{
+    position: relative;
+    left: 500px;
+    top: -317px;
+}
+.cm{
+    width: 357px;
+    height: 371px;
+}
+.cmm{
+    width: 357px;
+    height: 371px;
+    position: relative;
+    left: 600px;
+    top: -370px;
+}.cmmm{
+    width: 357px;
+    height: 371px;
+    position: relative;
+    left: 1200px;
+    top: -740px;
+}
+.pocco{
+    width: 100%;
+    height: 800px;
+}
+.por{
+    width: 80%;
+    height: 425px;
+    background-color: #E3EBF1;
+    position: relative;
+     top: 120px;
+     left: 200px;
+}
+.por img{
+    position: relative;
+    top: 40px;
+    left: 50px;
+}
+.por h1{
+    position: relative;
+    left: 900px;
+    top: -250px;
+}
+.por p{
+    position: relative;
+    left: 900px;
+    top: -250px;
+}
+.por input{
+    width: 40%;
+    height: 40px;
+    position: relative;
+    left: 850px;
+    top: -220px;
+}
+.footer{
+    width: 100%;
+    height: 800px;
+}
+.footer img{
+    position: relative;
+    top: 80px;
+    left: 150px ;
+}
+.footer2{
+    width: 310px;
+    height: 118px;
+    position: relative;
+    top: 180px;
+    left: 150px ;
+}
+.footer3 h1{
+    position: relative;
+    top: -100px;
+    left: 800px ;
+}
+.footer3 img{
+    position: relative;
+    left: 800px;
+    top: -100px;
+}
+.footer3 p{
+    position: relative;
+    left: 1100px;
+    top: -200px;
+}
+.footer12 h1{
+    position: relative;
+    left: 1500px;
+    top: -730px;
+}
+.footer12 input{
+    position: relative;
+   left: 1500px;
+    top: -730px; 
+}
+.footer12 p{
+    width: 20px;
+    position: relative;
+    left: 1500px;
+     top: -730px; 
+}
+.footer12 h2{
+    position: relative;
+    left: 1500px;
+     top: -730px; 
+}
+.oxiri{
+    width: 100%;
+    height: 60px;
+    border: 1px solid red;
+    position: relative;
+    top: -400px;
+}
